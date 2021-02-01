@@ -1,7 +1,7 @@
 # Hi there It's me Ahmed
 
 
-###Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Develpment
 - 🌱 I’m currently learning node js and data science
